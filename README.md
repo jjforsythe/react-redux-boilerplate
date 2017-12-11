@@ -11,7 +11,7 @@ Here are the steps I have taken to use and extend the original code:
  npm install --save redux react-redux
  ```
 
-* Update redux.js, App.js & index.js from here
+* Update redux.js, App.js & index.js from the tutorial code
 
 * Split redux.js into separate files: actions.js, reducers.js & store.js
 
