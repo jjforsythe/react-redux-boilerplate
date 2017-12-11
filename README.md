@@ -5,11 +5,11 @@ http://blog.tylerbuchea.com/super-simple-react-redux-application-example/).
 Here are the steps I have taken to use and extend the original code:
 
  ```
-	create-react-app boiler-plate
-    ```
+ create-react-app boiler-plate
  ```
-	npm install --save redux react-redux
-    ```
+ ```
+ npm install --save redux react-redux
+ ```
 
 * Update redux.js, App.js & index.js from here
 
@@ -30,4 +30,4 @@ In order to run simple clone or download the repository and run
 ```
 npm install
 npm start
-   ```
+```
