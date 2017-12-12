@@ -2,6 +2,13 @@
 This is an app to enable quicker set-up for redux applications, based on Tyler Buchea's great tutorial [here](
 http://blog.tylerbuchea.com/super-simple-react-redux-application-example/).
 
+In order to run simply clone or download the repository and run:
+
+```
+npm install
+npm start
+```
+
 Here are the steps I have taken to use and extend the original code:
 
  ```
@@ -24,10 +31,3 @@ Here are the steps I have taken to use and extend the original code:
 ```
 
 * Re-factor as a simple counter app
-
-In order to run simple clone or download the repository and run
-
-```
-npm install
-npm start
-```
