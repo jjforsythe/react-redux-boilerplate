@@ -2,12 +2,16 @@
 This is an app to enable quicker set-up for redux applications, based on Tyler Buchea's great tutorial [here](
 http://blog.tylerbuchea.com/super-simple-react-redux-application-example/).
 
+## Install
+
 In order to run simply clone or download the repository and run:
 
 ```
 npm install
 npm start
 ```
+
+## About
 
 Here are the steps I have taken to use and extend the original code:
 
