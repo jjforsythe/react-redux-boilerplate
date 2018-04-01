@@ -11,6 +11,8 @@ npm install
 npm start
 ```
 
+The application runs on [http://localhost:3000/](http://localhost:3000/).
+
 ## About
 
 Here are the steps I have taken to use and extend the original code:
